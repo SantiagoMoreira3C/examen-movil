@@ -1,0 +1,47 @@
+{
+   "checksum": "a9d2f7feac6dd571f4c9945b88f4ecb9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13312924020370196",
+            "date_last_used": "0",
+            "guid": "b77c8c62-d448-4e19-9943-c87033a85873",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "widgets library - Dart API",
+            "type": "url",
+            "url": "https://api.flutter.dev/flutter/widgets/widgets-library.html"
+         } ],
+         "date_added": "13312922316941769",
+         "date_last_used": "0",
+         "date_modified": "13312924020370196",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312922316941775",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312922316941777",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
